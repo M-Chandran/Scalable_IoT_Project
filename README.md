@@ -19,7 +19,7 @@ Scalable_IoT_Project is a powerful IoT management platform designed to efficient
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/M-Chandran/Scalable_IoT_Project.git
    cd my-v0-project
    ```
 
